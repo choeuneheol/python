@@ -1,8 +1,0 @@
-master work 1
-cintent 7
-cintent 1
-cintent 2
-cintent 3
-cintent 4
-content 5
-content 6
